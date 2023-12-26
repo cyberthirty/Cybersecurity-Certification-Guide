@@ -1,2 +1,19 @@
-# Cybersecurity-Certification-Guide
-A guide to cybersecurity certifications, from basics to advanced, helping individuals navigate and choose the right certification for their career. Includes information on top free cybersecurity certifications on Coursera
+## Top Cybersecurity Certifications
+
+### 1. **CompTIA Security+**
+
+
+### 2. **Certified Information Systems Security Professional (CISSP)**
+
+
+### 3. **Certified Ethical Hacker (CEH)**
+
+### 4. **Cisco Certified CyberOps Associate**
+
+### 5. **GIAC Security Essentials (GSEC)**
+
+## Top Free Cybersecurity Certifications on Coursera
+
+### 1. **Google IT Support Professional Certificate**
+### 1. **Google IT Support Professional Certificate**
+### 2. **IBM Cybersecurity Analyst Professional Certificate**

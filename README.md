@@ -15,5 +15,5 @@
 ## Top Free Cybersecurity Certifications on Coursera
 
 ### 1. **Google IT Support Professional Certificate**
-### 1. **Google IT Support Professional Certificate**
+### 1. **Google Cybersecurity Professional Certificate**
 ### 2. **IBM Cybersecurity Analyst Professional Certificate**
